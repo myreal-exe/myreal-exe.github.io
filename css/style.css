@@ -1,0 +1,54 @@
+body{
+    background-color: #000000;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: Verdana;
+    font-weight: 400;
+    font-size: 42px;
+}
+
+h5{
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana;
+}
+
+/* HEADER */
+#app-title{
+    font-family: Georgia;
+    color:white;
+    opacity: 0.8;
+}
+
+#slogan{
+    font-family: Verdana;
+    font-size: 50px;
+    color:white;
+    opacity: 0.94;
+}
+
+
+.download-link{
+    color: aquamarine;
+}
+
+/* APP INTRO*/
+
+img{
+    border: 2px solid rgb(134, 134, 134);
+    opacity: 0.9;
+}
+
+#phone-icon{
+    margin-top: 40px;
+}
+
+/* FOOTER */
+
+#copyright-text{
+    font-size: 15px;
+    text-align: right;
+}
